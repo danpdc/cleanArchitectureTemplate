@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physiqube.Common", "Physiqube.Common\Physiqube.Common.csproj", "{2B696A5D-579A-4E2B-B3EC-DF8F20BB68D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physiqube.Domain", "Physiqube.Domain\Physiqube.Domain.csproj", "{DF870CEA-98C2-439E-972E-2AACC094EC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physicube.Application", "Physicube.Application\Physicube.Application.csproj", "{3F71998D-ABB1-48D7-BDB4-4CD96FE9A717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physiqube.Infrastructure.Data", "Physiqube.Infrastructure.Data\Physiqube.Infrastructure.Data.csproj", "{2234018F-88ED-44B4-9FDC-E2DCB0E98754}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Physiqube.API", "Physiqube.API\Physiqube.API.csproj", "{8FAD0ABD-59A0-43C4-A3C5-2768829A70F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B696A5D-579A-4E2B-B3EC-DF8F20BB68D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B696A5D-579A-4E2B-B3EC-DF8F20BB68D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B696A5D-579A-4E2B-B3EC-DF8F20BB68D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B696A5D-579A-4E2B-B3EC-DF8F20BB68D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF870CEA-98C2-439E-972E-2AACC094EC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF870CEA-98C2-439E-972E-2AACC094EC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF870CEA-98C2-439E-972E-2AACC094EC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF870CEA-98C2-439E-972E-2AACC094EC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F71998D-ABB1-48D7-BDB4-4CD96FE9A717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F71998D-ABB1-48D7-BDB4-4CD96FE9A717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F71998D-ABB1-48D7-BDB4-4CD96FE9A717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F71998D-ABB1-48D7-BDB4-4CD96FE9A717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2234018F-88ED-44B4-9FDC-E2DCB0E98754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2234018F-88ED-44B4-9FDC-E2DCB0E98754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2234018F-88ED-44B4-9FDC-E2DCB0E98754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2234018F-88ED-44B4-9FDC-E2DCB0E98754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAD0ABD-59A0-43C4-A3C5-2768829A70F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAD0ABD-59A0-43C4-A3C5-2768829A70F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAD0ABD-59A0-43C4-A3C5-2768829A70F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAD0ABD-59A0-43C4-A3C5-2768829A70F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
